@@ -1,4 +1,0 @@
-20230720	13:10:09	b9deb32c-4c1c-4e78-9e81-f2df433b21dd	Log event emitted!
-20230720	13:10:17	bad830cf-3b19-450c-b872-482926ce8035	Log event emitted!
-20230720	13:10:23	9c7debeb-cf8f-440c-a557-d2e708587498	Log event emitted!
-20230720	13:45:06	af55fb18-48dc-4f0b-9955-c7c855283147	Log event emitted!
